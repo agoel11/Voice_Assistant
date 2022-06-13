@@ -1,0 +1,16 @@
+How are you?: Asks Assistant how he is
+Who are you?: Asks Assistant what he is
+Exit Assistant: Will exit program
+Search: Assistant will ask you to tell him what to search for and open in browser
+Play: Assistant will ask you what to play and search Youtube
+Find a place: Assistant will ask you where and direct you to Google Maps
+What is the date?: Assistant will tell you the date
+What is the time?: Assistant will tell you the time
+New note: Assistant will open a new note
+Open Calculator: Assistant will open calculator
+How is the Weather: Assistant will ask you what city and tell you the weather
+Settings: Assistant will ask what settings to change. Three options: speed, volume, and sound of Assistant
+Check my mail: Assistant will open Gmail
+Dictate a note: Assistant will ask you a name for the document and will allow you to narrate the document, then will open the document for you to see.
+How many coronavirus cases are there: Assistant will direct you to a live COVID-19 tracker
+Open a file: Assistant will let you choose to open Document, Downloads, or Desktop
